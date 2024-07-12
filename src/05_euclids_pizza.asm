@@ -1,0 +1,17 @@
+; ----- XA -----
+GRAB 300
+COPY F M
+COPY F M
+COPY F M
+COPY F M
+COPY F M
+
+; ----- XB -----
+LINK 800
+GRAB 200
+SEEK 9999
+COPY M F
+COPY M F
+COPY M F
+COPY M F
+COPY M F

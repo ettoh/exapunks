@@ -1,0 +1,7 @@
+; ----- XA -----
+LINK 800
+GRAB 200
+LINK 800
+ADDI F F X
+MULI F X X
+SUBI X F F
